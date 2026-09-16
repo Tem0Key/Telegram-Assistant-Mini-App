@@ -1,0 +1,11 @@
+aiogram>=3.20,<4
+fastapi>=0.116,<1
+uvicorn[standard]>=0.35,<1
+python-dotenv>=1.1,<2
+google-api-python-client>=2.0
+google-auth>=2.0
+google-auth-oauthlib>=1.2
+google-genai>=1.0,<2
+pydantic>=2.0,<3
+tzdata
+cryptography>=43,<47
